@@ -1,7 +1,13 @@
 {
   "name": "express-typescript-template",
   "version": "1.0.0",
+  "description": "An Express.js template for you API's needs!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LouieMartin/express-typescript-template.git"
+  },
   "main": "index.js",
+  "author": "DoNotHaveAnIdeaForAUsername <louie.decierdo@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node dist/index.js",
